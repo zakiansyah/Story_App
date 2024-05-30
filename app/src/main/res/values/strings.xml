@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_welcome_page">Selamat Datang di Story App Saya !</string>
+    <string name="message_welcome_page">Story App Merupakan Aplikasi Untuk Berbagi Cerita Keseruan Bersama Teman Temanmu </string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_login_page">Masukkan akunmu</string>
+    <string name="message_login_page">Masukkan dulu data akunmu </string>
+    <string name="foto">Foto</string>
+    <string name="Camera">Camera</string>
+    <string name="Upload">Upload</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Desc">Description</string>
+    <string name="upload_by">Uploaded by:</string>
+    <string name="add">add</string>
+    <string name="logout">logout</string>
+</resources>
